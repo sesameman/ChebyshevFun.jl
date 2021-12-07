@@ -1,0 +1,13 @@
+name = "ChebyshevFun"
+uuid = "a8c62ef8-0abc-4e55-b3af-e8f804394ba1"
+authors = ["sesameman"]
+version = "0.1.0"
+
+[compat]
+julia = "1.6"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
