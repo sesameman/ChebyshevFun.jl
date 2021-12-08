@@ -1,5 +1,5 @@
 module ChebyshevFun
-
-# Write your package code here.
-
+include("chebyshev.jl")
+export chebyshevT
+export ChebyshevU
 end
